@@ -38,11 +38,11 @@ const Contact = () => {
   const contactInfo = [
     {
       title: 'Phone',
-      content: ['(555) 123-4567', '(555) 765-4321'],
+      content: ['(567) 318-3651'],
     },
     {
       title: 'Email',
-      content: ['info@ortizandpartners.com', 'contact@ortizandpartners.com'],
+      content: ['joeortiz@counsellor.com'],
     },
     {
       title: 'Address',

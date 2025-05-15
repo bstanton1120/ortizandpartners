@@ -238,10 +238,10 @@ const Footer = () => {
               Columbia, SC 29201
             </Typography>
             <Typography variant="body2" sx={{ mb: 1 }}>
-              (555) 123-4567
+              (567) 318-3651
             </Typography>
             <Typography variant="body2">
-              info@ortizandpartners.com
+              joeortiz@counsellor.com
             </Typography>
           </Box>
           

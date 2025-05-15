@@ -5,28 +5,28 @@ import { LinkedIn, Email, Phone } from '@mui/icons-material';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Maria Ortiz',
+      name: 'Joe Ortiz',
       role: 'Managing Partner',
       image: '/images/team/maria-ortiz.jpg',
       specialization: 'Corporate Law',
       education: 'J.D., Harvard Law School',
       experience: '20+ years of experience in corporate law and mergers & acquisitions.',
       linkedin: 'https://linkedin.com',
-      email: 'maria.ortiz@ortizandpartners.com',
-      phone: '(555) 123-4567',
-      bio: 'Maria Ortiz founded Ortiz & Partners with a vision to provide exceptional legal services with integrity and dedication. Her extensive experience in corporate law and mergers & acquisitions has earned her a reputation as one of the most respected attorneys in South Carolina. Maria leads our corporate practice and has successfully guided numerous clients through complex business transactions.'
+      email: 'joeortiz@counsellor.com',
+      phone: '(567) 318-3651',
+      bio: 'Joe Ortiz founded Ortiz & Partners with a vision to provide exceptional legal services with integrity and dedication. His extensive experience in corporate law and mergers & acquisitions has earned her a reputation as one of the most respected attorneys in South Carolina. Joe leads our corporate practice and has successfully guided numerous clients through complex business transactions.'
     },
     {
-      name: 'James Chen',
+      name: 'James Alvarez',
       role: 'Senior Partner',
       image: '/images/team/james-chen.jpg',
       specialization: 'Civil Litigation',
       education: 'J.D., Yale Law School',
       experience: '15+ years of experience in complex civil litigation and dispute resolution.',
       linkedin: 'https://linkedin.com',
-      email: 'james.chen@ortizandpartners.com',
+      email: 'jamesalvarez@ortizandpartners.com',
       phone: '(555) 234-5678',
-      bio: 'James Chen brings strategic thinking and meticulous preparation to every case he handles. As the head of our litigation practice, James has successfully represented clients in high-stakes disputes across various industries. His analytical approach and courtroom presence have resulted in numerous favorable outcomes for our clients.'
+      bio: 'James Alvarez brings strategic thinking and meticulous preparation to every case he handles. As the head of our litigation practice, James has successfully represented clients in high-stakes disputes across various industries. His analytical approach and courtroom presence have resulted in numerous favorable outcomes for our clients.'
     },
     {
       name: 'Sarah Thompson',
@@ -36,21 +36,19 @@ const Team = () => {
       education: 'J.D., Columbia Law School',
       experience: '12+ years of experience in family law and mediation.',
       linkedin: 'https://linkedin.com',
-      email: 'sarah.thompson@ortizandpartners.com',
-      phone: '(555) 345-6789',
+      email: 'sarahthompson@counsellor.com',
       bio: 'Sarah Thompson leads our family law practice with compassion and dedication. She understands the sensitive nature of family legal matters and approaches each case with empathy and discretion. Sarah has helped countless families navigate challenging transitions with dignity and respect. Her client-centered approach ensures that each family receives personalized attention and effective representation.'
     },
     {
-      name: 'Michael Rodriguez',
+      name: 'Martin Rodriguez',
       role: 'Associate',
       image: '/images/team/michael-rodriguez.jpg',
       specialization: 'Estate Planning',
       education: 'J.D., Stanford Law School',
       experience: '8+ years of experience in estate planning and probate law.',
       linkedin: 'https://linkedin.com',
-      email: 'michael.rodriguez@ortizandpartners.com',
-      phone: '(555) 456-7890',
-      bio: 'Michael Rodriguez specializes in helping clients protect their assets and plan for the future. His comprehensive approach to estate planning ensures that each client\'s unique needs and wishes are addressed. Michael is known for his ability to explain complex legal concepts in accessible terms, making the estate planning process less intimidating for clients.'
+      email: 'martinrodriguez@counsellor.com',
+      bio: 'Martin Rodriguez specializes in helping clients protect their assets and plan for the future. His comprehensive approach to estate planning ensures that each client\'s unique needs and wishes are addressed. Martin is known for his ability to explain complex legal concepts in accessible terms, making the estate planning process less intimidating for clients.'
     }
   ];
 

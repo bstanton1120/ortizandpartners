@@ -52,9 +52,9 @@ const Footer = () => {
               New York, NY 10001
             </Typography>
             <Typography variant="body2" className="mb-4">
-              Phone: (555) 123-4567
+              Phone: (567) 318-3651
               <br />
-              Email: info@ortizandpartners.com
+              Email: joeortiz@counsellor.com
             </Typography>
             <div className="flex gap-2">
               <IconButton color="inherit" aria-label="Facebook">
