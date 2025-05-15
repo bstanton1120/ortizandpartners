@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
+  <path d="M20,10 L20,50 L40,50 C45,50 50,45 50,40 C50,35 45,30 40,30 C45,30 50,25 50,20 C50,15 45,10 40,10 L20,10 Z" fill="#1B2B4B"/>
+  <path d="M20,20 L35,20 C37,20 40,21 40,25 C40,29 37,30 35,30 L20,30 L20,20 Z" fill="#A67C52"/>
+  <path d="M20,40 L35,40 C37,40 40,39 40,35 C40,31 37,30 35,30 L20,30 L20,40 Z" fill="#A67C52"/>
+  <text x="70" y="35" font-family="'Cormorant Garamond', serif" font-size="24" font-weight="600" fill="#1B2B4B">ORTIZ AND PARTNERS</text>
+  <text x="70" y="50" font-family="'Cormorant Garamond', serif" font-size="12" fill="#A67C52">ATTORNEYS AT LAW</text>
+</svg>
